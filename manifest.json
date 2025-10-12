@@ -1,9 +1,10 @@
 {
-	"id": "ec281171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["Pedan", "AMP Community"],
-	"origin": "https://github.com/PedanXr/AMPtemplates.git",
-	"url": "https://github.com/PedanXr/AMPtemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "215fddb4-3e73-4eb7-89ab-2bdf5b4ae7b4",
+    "authors": [
+        "PedanXr - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/PedanXr - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/PedanXr - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "PedanXr - Made with AMP Config Generator"
 }
