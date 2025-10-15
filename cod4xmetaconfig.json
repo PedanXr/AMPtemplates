@@ -1,1 +1,15 @@
-[]
+{
+  "ConfigFile": "server.cfg",
+  "ConfigType": "kvp",
+  "ConfigFormat": "{0} \"{1}\"",
+  "AutoMap": true,
+  "Subsections": [
+    {
+      "Heading": "$root",
+      "SettingMappings": {
+        "sv_maxclients": "MaxPlayers",
+        "net_port": "ApplicationPort1"
+      }
+    }
+  ]
+}

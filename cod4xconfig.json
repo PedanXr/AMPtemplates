@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "DisplayName": "Servername",
+    "Description": "Der Name des Servers.",
+    "FieldName": "ServerName",
+    "InputType": "text",
+    "Category": "Server",
+    "IncludeInCommandLine": false,
+    "Hidden": false,
+    "DefaultValue": "CoD4x AMP Server"
+  },
+  {
+    "DisplayName": "Maximale Spieler",
+    "Description": "Maximale Anzahl der Spieler.",
+    "FieldName": "MaxPlayers",
+    "InputType": "number",
+    "Category": "Server",
+    "IncludeInCommandLine": true,
+    "Hidden": false,
+    "DefaultValue": "32",
+    "minValue": "2",
+    "maxValue": "64"
+  },
+  {
+    "DisplayName": "Port",
+    "Description": "Netzwerk-Port des Servers.",
+    "FieldName": "ApplicationPort1",
+    "InputType": "number",
+    "Category": "Netzwerk",
+    "IncludeInCommandLine": true,
+    "Hidden": false,
+    "DefaultValue": "28960",
+    "minValue": "1024",
+    "maxValue": "65535"
+  },
+  {
+    "DisplayName": "Konfigurationsdatei",
+    "Description": "Pfad zur server.cfg.",
+    "FieldName": "ConfigFile",
+    "InputType": "text",
+    "Category": "Server",
+    "IncludeInCommandLine": true,
+    "Hidden": false,
+    "DefaultValue": "server.cfg"
+  }
+]
