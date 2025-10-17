@@ -13,6 +13,11 @@ App.ApplicationIPBinding=0.0.0.0
 App.ApplicationPort1=28960
 App.MaxUsers=32
 App.AdminMethod=PinballWizard
+GenericModule.Meta.AppConfigId=1
+GenericModule.Meta.DisplayName=CoD4x
+GenericModule.Meta.Description="MW1 CoD4x mod"
+GenericModule.Meta.DisplayImageSource=https://cod4x.ovh/uploads/default/optimized/2X/e/efe39b97a47ed411bfece6b0a046b53bc5cccd89_2_180x180.png
+GenericModule.Meta.OS=Windows, Linux
 
 App.UpdateSources=[
   {
